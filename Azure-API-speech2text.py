@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 
 
-subscription_key = 'cf9730a166574bc184bd14f5a73f4616'
+subscription_key = ''
 
 
 def get_token(subscription_key):
